@@ -1,5 +1,5 @@
 # WARNNG THIS COULD KILL SCRIPTS
 # ONLY FOR PERSONAL USE
-#!/bin/local
-echo " WARING ONLY FOR PERSONAL USE " 
+#!/bin/bash
+echo " WARNING ONLY FOR PERSONAL USE " 
 sudo rm -f linux
